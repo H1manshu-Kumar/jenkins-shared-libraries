@@ -65,7 +65,7 @@ Refer to the library's documentation for specific configuration details.
 
 ## Contribution Guidelines
 
-Contributions are welcome! To contribute:
+Contributions are welcome! To contribute-
 
 1. **Fork the Repository**: Create a personal fork of the project.
 2. **Create a Feature Branch**:  
